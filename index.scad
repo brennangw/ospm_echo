@@ -1,4 +1,4 @@
-module Echo(word="default echo") {
-	echo(word)
+module MyEcho(word="default echo") {
+	echo(word);
 
 }
